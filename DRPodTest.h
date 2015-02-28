@@ -3,7 +3,7 @@
 //  OCDemo
 //
 //  Created by jingxuan.dou on 15/2/28.
-//  Copyright (c) 2015年 com.doujingxuan.quanr. All rights reserved.
+//  Copyright (c) 2015年 com.doujingxuan.quanr. All rig  hts reserved.
 //
 
 #import <Foundation/Foundation.h>
