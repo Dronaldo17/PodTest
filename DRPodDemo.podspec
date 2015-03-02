@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
  s.homepage = "https://github/Dronaldo17/PodTest"
  s.license = "MIT"
  s.author = { "窦静轩" => "dronaldo80@gmail.com" }
- s.source = { :git => "https://github/Dronaldo17/PodTest.git"}
+ s.source = { :git => "https://github/Dronaldo17/PodTest.git",:tag =>"0.0.1"}
  s.source_files =  "PodTest /**"
  s.requires_arc = true
  # s.framework = "SomeFramework"
