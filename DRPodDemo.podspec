@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
  s.license = "MIT"
  s.author = { "窦静轩" => "dronaldo80@gmail.com" }
  s.source = { :git => "https://github/Dronaldo17/PodTest.git"}
- s.source_files =  "./*"
+ s.source_files =  "/**/*.{h,m,mm}"
  s.requires_arc = true
  # s.framework = "SomeFramework"
  # s.frameworks = "SomeFramework", "AnotherFramework"
